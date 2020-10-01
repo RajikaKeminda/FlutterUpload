@@ -1,5 +1,5 @@
 name: fileupload
-description: A new Flutter project.
+description: Drop Box Uploader.
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -41,7 +41,7 @@ flutter:
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
-  uses-material-design: true
+  uses-material-design: False
 
   # To add assets to your application, add an assets section, like this:
   # assets:
